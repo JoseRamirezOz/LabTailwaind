@@ -1,0 +1,28 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Laboratorio de TAILWAIND",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseRamirezOz/LabTailwaind.git"
+  },
+  "keywords": [
+    "Tailwaind",
+    "CSS"
+  ],
+  "author": "JoséRamírezOz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseRamirezOz/LabTailwaind/issues"
+  },
+  "homepage": "https://github.com/JoseRamirezOz/LabTailwaind#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
